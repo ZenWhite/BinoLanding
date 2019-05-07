@@ -1353,7 +1353,7 @@ a {
 
 @media (max-width: 1080px) {
   .team {
-    background: url(/img/team-bg.jpg) center no-repeat;
+    background: url(../img/team-bg.jpg) center no-repeat;
     background-size: cover;
     padding: 140px 0; }
     .team .team__elements {
